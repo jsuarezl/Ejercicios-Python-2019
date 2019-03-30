@@ -1,3 +1,5 @@
+# Transformacion de el rut a la menor cantidad de billetes y monedas chilenas, sin usar monedas de 5 o 1 peso
+
 print('Conversion de rut a la menor cantidad de billetes y monedas chilenas, se usan los siguientes billetes y monedas')
 print(' Billetes:')
 print(' - $20000')

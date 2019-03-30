@@ -1,3 +1,5 @@
+# Conversion de fahrenheit a celsius y viceversa, obteniendo un sub texto dentro de una cadena de texto
+
 temp = input('Ingrese la temperatura que desee convertir (ej.: 45F, 102C) : ')
 ultima = temp[len(temp)-1]
 

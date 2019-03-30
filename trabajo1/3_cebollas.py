@@ -1,3 +1,13 @@
+# Si se tiene la cantidad de cebollas del rut sin punto ni guion distribuir las cebollas en lotes que entran en sacos
+# que entran en camiones
+#
+# Capacidad de un lote: 4 cebollas
+# Capacidad de un saco: 12 lotes (48 cebollas)
+# Capacidad de un camion: 150 sacos (7200 cebollas)
+#
+# Calculo de cuantos camiones se llenan con sacos, sacos sobrantes, lotes que no llenan un saco y cebollas que no
+# llenan un lote
+
 print('Calculo de camiones, sacos, lotes y cebollas en base al rut sin punto ni guion')
 print(' - Un lote contiene 4 cebollas')
 print(' - Un saco contiene 12 lotes')

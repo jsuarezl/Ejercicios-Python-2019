@@ -1,3 +1,6 @@
+# Calculo complejo y sin sentido, se puede realizar de mejores formas, pero asi lo solicitaron, es mejor no intentar
+# estudiar como funciona esto
+
 import math
 
 numero1 = float(input('Ingresa el primer numero: '))

@@ -1,3 +1,5 @@
+# Obtener el posible grupo sanguineo de los hijos en base a los grupos sanguineos de los padres
+
 grupo1 = ['AB', 'BA']
 grupo2 = ['AA', 'AO']
 grupo3 = ['BB', 'BO']

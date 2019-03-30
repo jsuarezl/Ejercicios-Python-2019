@@ -1,3 +1,5 @@
+# Verificacion de si un punto 3 pertenece a una recta definida por el punto 1 y el punto 2
+
 # ejemplo funcional
 p1 = [2, 2]  # punto 1
 p2 = [14, 10]  # punto 2

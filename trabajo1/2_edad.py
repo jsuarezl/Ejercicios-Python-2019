@@ -1,3 +1,5 @@
+# Obtener la edad el dia de hoy
+
 import datetime
 
 anionacimiento = int(input('Ingresa tu anio de nacimiento: '))

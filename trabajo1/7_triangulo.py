@@ -1,3 +1,5 @@
+# Clasificacion del tipo de triangulo creado por 3 puntos en un plano en base a sus angulos
+
 import math
 
 a = int(input('Lado a: '))
